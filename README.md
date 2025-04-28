@@ -4,17 +4,17 @@ This project is a control interface developed for the washing unit of milking sy
 # Features
 OLED Display Menu: Visual interface to display settings and options.
 
-Rotary Encoder Navigation:
+### Rotary Encoder Navigation:
 
 Rotate to navigate through menu items.
 
 Press to select or modify settings.
 
-Interrupt-based Encoder Handling:
+### Interrupt-based Encoder Handling:
 
 The rotary encoder is connected to the ESP32 using hardware interrupts for fast and accurate input detection.
 
-ESP32 Platform:
+### ESP32 Platform:
 
 Reliable and powerful microcontroller to handle display updates and user inputs efficiently.
 
