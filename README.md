@@ -21,7 +21,7 @@ Reliable and powerful microcontroller to handle display updates and user inputs 
 ## Hardware Used
 ESP32 Development Board
 
-0.96" OLED Display (I2C)
+128x32 OLED Display (I2C)
 
 Rotary Encoder with Push Button
 
