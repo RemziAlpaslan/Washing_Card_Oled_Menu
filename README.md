@@ -1,4 +1,4 @@
-Milking System Wash Control Panel - OLED Menu Interface
+## Milking System Wash Control Panel - OLED Menu Interface
 This project is a control interface developed for the washing unit of milking systems. The system is built using an ESP32 microcontroller, an OLED display, and a rotary encoder. The interface allows users to navigate through the menu and change settings easily by pressing and rotating the encoder.
 
 Features
